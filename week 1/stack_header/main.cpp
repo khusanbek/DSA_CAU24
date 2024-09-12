@@ -7,7 +7,7 @@ using namespace std;
 // Driver program to test above functions 
 int main() 
 { 
-    class Stack s; 
+    Stack s; 
     s.push(7); 
     s.push(15); 
     s.push(40); 
