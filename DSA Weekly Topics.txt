@@ -1,1 +1,13 @@
+week 1
+arrays, introduction, limitations of array, linear search
 
+week 2
+structs, stack using array, stack stl 
+
+week 3
+implementation
+- stack visual illustration with array
+- queue using array implementation
+- queue visual illustration with array
+- queue stl
+- practice tasks
