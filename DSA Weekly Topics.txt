@@ -11,3 +11,17 @@ implementation
 - queue visual illustration with array
 - queue stl
 - practice tasks
+
+week 4
+- Sorting algorithms
+Insertion sort
+Selection sort
+
+- Searching algorithms
+Linear search
+Binary search
+
+- Data structures
+Singly Linked list
+Graph
+Tree
