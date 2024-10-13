@@ -1,0 +1,17 @@
+DSA exercises
+
+Week 3
+
+1. 
+
+1. Write a program that sorts items in the stack.
+2. "Gum Ball" try to build a data structure that mimics the gumball machine concept. Queue has front and rear sides to access and items leave container sequentially. But, in Gum Ball we can take items out in random.
+3. Try to implement basic singly linked list on your own. Use it in practice.
+4. Try to create circular Queue and use it.
+
+2.
+
+1. Create and implement the binary search with whole numbers.
+2. Implement the binary search with class consisting two data members (attributes).
+3. Create and implement insertion sort with numbers.
+4. Create and implement the stack with numbers and add functions to find the greatest/lowest value in stack and average of total values in stack.

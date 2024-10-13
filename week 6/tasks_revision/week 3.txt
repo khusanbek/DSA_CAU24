@@ -1,0 +1,11 @@
+Data structure exercises week 2:
+
+1. Create seven different random numbers and store them in stack. Also, print out values back to console. 
+
+2. Create a program that uses stack to store "books finished reading". To do that create and store 20 book names in array (string) as available books. Allow user to add book to stack to show that user finished reading that book. Allow to list books finished reading.
+
+3. Create stack of random banknotes. Print them on console.
+
+4. Change display function of Queue class to print elements in queue from left to right.
+
+5. Try to apply working with string data type instead of integer to Queue class.

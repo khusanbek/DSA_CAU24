@@ -1,0 +1,15 @@
+DSA exercises
+
+Week 4
+
+1
+
+1. Implement Linked List with string data type to store list of students.
+
+2. Apply binary search for array of numbers. Make array to be sorted first.
+
+3. Research and apply basic Tree data structure.
+
+2
+
+Solving any two tasks from leetcode platform.

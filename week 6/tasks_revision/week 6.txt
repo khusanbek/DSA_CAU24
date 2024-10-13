@@ -1,0 +1,16 @@
+
+Week 5
+
+Lab 1
+
+1. Try the doubly linked list from STL.
+2. Try to provide a solution approach to assignment 1 task using Linked List. Also, create a mechanism to add the platter and let platter leave the line.
+3. Try to write program that reverses the linked list.
+4. Try any two tasks with search/sort algorithms from leetcode platform. 
+
+Lab 2
+
+1. Perform traversing the Linked list. 
+2. Write search by value for Linked list.
+3. Write clearing the content function for linked list.
+4. Search few exercises about Linked list interview questions.
