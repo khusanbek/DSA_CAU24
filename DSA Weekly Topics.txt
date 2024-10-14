@@ -19,14 +19,15 @@ Selection sort
 
 - Searching algorithms
 Linear search
-Binary search
-
-- Data structures
-Singly Linked list
-Graph
-Tree
 
 Week 6
 - tasks revision
 - revision of topics
 - mid-term questions
+
+week 7
+Binary search: Implementation
+
+- Data structures
+Singly Linked list: Implementation
+Tree: Implementation
