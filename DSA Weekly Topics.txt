@@ -31,3 +31,8 @@ Binary search: Implementation
 - Data structures
 Singly Linked list: Implementation
 Tree: Implementation
+
+week 9
+- Quiz 1 taken in class
+- Quiz 2 taken in class
+- Doubly Linked List discussed
