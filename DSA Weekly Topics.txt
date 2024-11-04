@@ -36,3 +36,7 @@ week 9
 - Quiz 1 taken in class
 - Quiz 2 taken in class
 - Doubly Linked List discussed
+
+week 10
+- Graph theory, understanding the graphs and its characteristics
+- dijkstra algorithm, finding closest route to the nodes
