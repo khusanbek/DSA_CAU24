@@ -40,3 +40,18 @@ week 9
 week 10
 - Graph theory, understanding the graphs and its characteristics
 - dijkstra algorithm, finding closest route to the nodes
+
+week 11
+-iterators
+- structs examples
+
+week 12
+- struct with functions
+- iterators
+- tuple
+- priority queue
+- bank service through Pro * C Oracle sql embedded to C
+
+week 13
+- set
+- maps
