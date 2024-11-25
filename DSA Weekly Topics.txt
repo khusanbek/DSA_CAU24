@@ -55,3 +55,9 @@ week 12
 week 13
 - set
 - maps
+
+focus area for final exam
+- structs with member data, functions
+- doubly linked list, tree, 
+- graph, Dijkstra, iterator, tuple
+- priority queue, set, map, hashmap
